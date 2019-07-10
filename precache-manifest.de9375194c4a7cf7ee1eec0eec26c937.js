@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa470b25802744f106ee7e7137d77ee4",
+    "revision": "7c4e702a1511158f8a12dde519a559d5",
     "url": "/ung-dung-gio-hang/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ung-dung-gio-hang/static/js/2.b08c07ae.chunk.js"
   },
   {
-    "revision": "772501fd8a2494528a32",
-    "url": "/ung-dung-gio-hang/static/js/main.8da48c72.chunk.js"
+    "revision": "fd87a44aae4fb84bbaaa",
+    "url": "/ung-dung-gio-hang/static/js/main.7e640afa.chunk.js"
   },
   {
     "revision": "e4b63c3ce6f64cf4a62c",

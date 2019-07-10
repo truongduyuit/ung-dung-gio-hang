@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ung-dung-gio-hang/precache-manifest.c589f7d3ed6ac8bd00f654a0c685ce97.js"
+  "/ung-dung-gio-hang/precache-manifest.de9375194c4a7cf7ee1eec0eec26c937.js"
 );
 
 self.addEventListener('message', (event) => {
