@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "//ung-dung-gio-hang/static/js/main.8da48c72.chunk.js",
-    "main.js.map": "//ung-dung-gio-hang/static/js/main.8da48c72.chunk.js.map",
-    "runtime~main.js": "//ung-dung-gio-hang/static/js/runtime~main.ef7261c0.js",
-    "runtime~main.js.map": "//ung-dung-gio-hang/static/js/runtime~main.ef7261c0.js.map",
-    "static/js/2.b08c07ae.chunk.js": "//ung-dung-gio-hang/static/js/2.b08c07ae.chunk.js",
-    "static/js/2.b08c07ae.chunk.js.map": "//ung-dung-gio-hang/static/js/2.b08c07ae.chunk.js.map",
-    "index.html": "//ung-dung-gio-hang/index.html",
-    "precache-manifest.28a521f7693e2379430d8b80a272ae97.js": "//ung-dung-gio-hang/precache-manifest.28a521f7693e2379430d8b80a272ae97.js",
-    "service-worker.js": "//ung-dung-gio-hang/service-worker.js"
+    "main.js": "/ung-dung-gio-hang/static/js/main.8da48c72.chunk.js",
+    "main.js.map": "/ung-dung-gio-hang/static/js/main.8da48c72.chunk.js.map",
+    "runtime~main.js": "/ung-dung-gio-hang/static/js/runtime~main.0242a85c.js",
+    "runtime~main.js.map": "/ung-dung-gio-hang/static/js/runtime~main.0242a85c.js.map",
+    "static/js/2.b08c07ae.chunk.js": "/ung-dung-gio-hang/static/js/2.b08c07ae.chunk.js",
+    "static/js/2.b08c07ae.chunk.js.map": "/ung-dung-gio-hang/static/js/2.b08c07ae.chunk.js.map",
+    "index.html": "/ung-dung-gio-hang/index.html",
+    "precache-manifest.c589f7d3ed6ac8bd00f654a0c685ce97.js": "/ung-dung-gio-hang/precache-manifest.c589f7d3ed6ac8bd00f654a0c685ce97.js",
+    "service-worker.js": "/ung-dung-gio-hang/service-worker.js"
   }
 }
